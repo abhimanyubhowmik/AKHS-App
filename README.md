@@ -22,9 +22,9 @@ This school is now managed by the West Bengal Ministry of Education and is curre
 
 Upper Part:
 
-<img src = "./Images/img1.jpeg" width="50%">
+<img src = "./Images/img1.jpeg" width="100%">
 
 Lower Part:
 
-<img src = "./Images/img2.jpeg" width="50%">
+<img src = "./Images/img2.jpeg" width="100%">
 
