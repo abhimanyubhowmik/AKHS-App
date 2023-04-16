@@ -1,38 +1,105 @@
-.App {
-  text-align: center;
+.bg-dark {
+  background-color: #04204e;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar-brand {
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 1.75rem;
+}
+.navbar-dark .navbar-nav .navbar-link {
+  font-weight: 700;
+  font-size: 14px;
+  text-transform: uppercase;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navbar-dark .navbar-nav .nav-item {
+  margin: 0 15px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.navbar-toggle {
+  align-self: end;
+}
+.navbar-link {
+  font-family: fantasy;
+}
+.Header h2 {
+  position: absolute;
+  margin-top: 25%;
+  margin-left: 7%;
+  color: aliceblue;
+  font-family: monospace;
 }
 
-.App-link {
-  color: #61dafb;
+.Header h1 {
+  position: absolute;
+  margin-top: 28%;
+  margin-left: 7%;
+  color: aliceblue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Header h5 {
+  position: absolute;
+  margin-top: 42%;
+  margin-left: 7%;
+  color: aliceblue;
+  font-family: monospace;
+}
+
+.schimg {
+  position: absolute;
+}
+
+.square {
+  position: absolute;
+  background-color: #04204ebb;
+  height: 150px;
+  width: 800px;
+  margin-top: 23%;
+}
+
+.square2 {
+  position: absolute;
+  background-color: #04204ebb;
+  height: 207px;
+  width: 1440px;
+  margin-top: 40%;
+}
+
+.card {
+  margin-top: 60%;
+  width: 18rem;
+}
+
+.row {
+  margin-top: 45%;
+}
+.cards {
+  margin-left: 10%;
+}
+
+.space {
+  height: 100px;
+  width: 1440px;
+}
+.footer {
+  position: absolute;
+  background-color: #293944;
+  height: 100px;
+  width: 1440px;
+}
+
+.footer h5 {
+  margin: 3%;
+  color: aliceblue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.card-title {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.card-text {
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
