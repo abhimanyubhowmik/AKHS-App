@@ -1,6 +1,14 @@
+
 # Ariadaha Kalachand High School (AKHS App)
 
+
+[![Linkdin](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/school/ariadaha-kalachand-high-school) 
+[![Website](https://img.shields.io/badge/Original-Website-red)](https://school.banglarshiksha.gov.in/ws/website/index/19114001006)
+[![Location](https://img.shields.io/badge/Google-Maps-brightgreen)](https://goo.gl/maps/F1sMBn8NZHjCUwXJA) 
+
+
 This is a demo app build by me in April 2021 on request of one of my friend. It's tribute to my school from my end. This is a single page basic website with potential to be extended into multipage app for displaying information, courses and releted sutffs.
+
 
 ## Overview of the School
 
